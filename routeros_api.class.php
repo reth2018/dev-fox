@@ -93,9 +93,9 @@ class RouterosAPI
     /**
      * Login to RouterOS
      *
-     * @param string      $ip         Hostname (IP or domain) of the RouterOS server
-     * @param string      $login      The RouterOS username
-     * @param string      $password   The RouterOS password
+     * @param string      $ip         36.37.202.188
+     * @param string      $login      reth
+     * @param string      $password   windows.net$$$
      *
      * @return boolean                If we are connected or not
      */
